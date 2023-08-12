@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_ice.mk
+    $(LOCAL_DIR)/twrp_ice.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_ice-user \
-    omni_ice-userdebug \
-    omni_ice-eng
+    twrp_ice-user \
+    twrp_ice-userdebug \
+    twrp_ice-eng
